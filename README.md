@@ -52,3 +52,9 @@ Se agrega Documento de Buyer Persona:
 
 https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/b6ddbeed6fff9df3e83a7c9863c7c3f233530a2b/Buyer%20Persona%20Alfonso%20Marketing.pdf
 
+
+PÚBLICO OBJETIVO
+
+Nuestro público objetivo serán todos aquellos profesionistas entre 35 y 55 años pertenecientes a clase social "media - alta" que trabajen en el sector comercial como parte de un equipo de trabajo o realizando una actividad Freelance. Personas que desean optimizar sus tiempos para realizar trámites a través de internet y poder realizar sus demás actividades de forma efectiva.
+
+[![Publico-Objetivo-Abogabot.jpg](https://i.postimg.cc/44jqDzQq/Publico-Objetivo-Abogabot.jpg)](https://postimg.cc/hhb2xQw1)

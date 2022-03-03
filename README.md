@@ -62,3 +62,9 @@ Nuestro público objetivo serán todos aquellos profesionistas entre 35 y 55 añ
 Se anexa Documento Público Objetivo:
 
 https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/cb18369c6c2cf73b467dbe49480aaf66935fd128/Publico%20Objetivo%20Abogabot.jpg
+
+
+WIREFRAME UX / UI
+
+A través de la petición del cliente se muestran los wireframes correspondientes a la página web de Abogabot Consultores así como las diferentes interfaces de navegación:
+

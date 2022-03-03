@@ -68,3 +68,17 @@ WIREFRAME UX / UI
 
 A través de la petición del cliente se muestran los wireframes correspondientes a la página web de Abogabot Consultores así como las diferentes interfaces de navegación:
 
+[![Abogabot-Home.png](https://i.postimg.cc/QCM7S9Hq/Abogabot-Home.png)](https://postimg.cc/0MLryNG6)
+
+[![Abogabot-Acceso-User.png](https://i.postimg.cc/YqYFRHSZ/Abogabot-Acceso-User.png)](https://postimg.cc/F7F1Fw3V)
+
+[![Abogabot-Registro-Usuario.png](https://i.postimg.cc/rpW7Fzyg/Abogabot-Registro-Usuario.png)](https://postimg.cc/bGymmyt2)
+
+[![Abogabot-Registro-Exitoso-Usuario.png](https://i.postimg.cc/BbvhDv3r/Abogabot-Registro-Exitoso-Usuario.png)](https://postimg.cc/Q9RkZhHm)
+
+[![Abogabot-Formulario-Demanda.png](https://i.postimg.cc/hvJLcQct/Abogabot-Formulario-Demanda.png)](https://postimg.cc/y3HgTdDM)
+
+[![Abogabot-Registro-Exitoso-Demanda.png](https://i.postimg.cc/dQ7NqLWC/Abogabot-Registro-Exitoso-Demanda.png)](https://postimg.cc/hhB1sPR4)
+
+[![Abogabot-Portal-Usuario.png](https://i.postimg.cc/FztyFsRb/Abogabot-Portal-Usuario.png)](https://postimg.cc/vgzg3y5D)
+

@@ -82,3 +82,25 @@ A través de la petición del cliente se muestran los wireframes correspondiente
 
 [![Abogabot-Portal-Usuario.png](https://i.postimg.cc/FztyFsRb/Abogabot-Portal-Usuario.png)](https://postimg.cc/vgzg3y5D)
 
+Se anexa Documentos Wireframe UX / UI
+
+Home
+https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/7bf631fb6f724169121bca9e4301dd734fb2a082/Abogabot%20Home.png
+
+Acceso User
+https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/7bf631fb6f724169121bca9e4301dd734fb2a082/Abogabot%20Acceso%20User.png
+
+Registro Usuario
+https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/7bf631fb6f724169121bca9e4301dd734fb2a082/Abogabot%20Registro%20Usuario.png
+
+Registro Éxitoso Usuario
+https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/7bf631fb6f724169121bca9e4301dd734fb2a082/Abogabot%20Registro%20Exitoso%20Usuario.png
+
+Formulario Demanda
+https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/7bf631fb6f724169121bca9e4301dd734fb2a082/Abogabot%20Formulario%20Demanda.png
+
+Registro Éxitoso Demanda
+https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/7bf631fb6f724169121bca9e4301dd734fb2a082/Abogabot%20Registro%20Exitoso%20Demanda.png
+
+Portal Usuario
+https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/7bf631fb6f724169121bca9e4301dd734fb2a082/Abogabot%20Portal%20Usuario.png

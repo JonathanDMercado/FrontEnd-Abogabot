@@ -20,3 +20,23 @@ DESCRIPCIÓN
 •	La página debe de ser responsive para poderla ver desde el celular.
 
 •	La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+
+TOMA DE REQUERIMIENTOS
+
+Se realiza la Toma de Requerimientos para Abogabot Consultores; los cuales solicitan la implementación de un servicio para levantar Demandas "virtuales" a través del llenado de un formulario así como una herramienta para que el usuario pueda visualizar el status de su trámite.
+
+Los puntos a considerar:
+
+* Estilo de página web utilizando tonos azul marino y blanco a petición del cliente.
+
+* Crear un perfil del usuario a través de un formulario que le permita acceder a su portal
+
+* Dentro del Portal del usuario poder visualizar las diferentes etapas de sus trámites así como observaciones por parte de los abogados; teniendo la posibilidad de tener contacto con ellos a través de comentarios que pueda agregar.
+
+* Levantamiento de demandas digitales a través del llenado de un formulario. Una vez concluido el formulario el sistema generará un voucher de pago para el usuario o un link para pago en línea por el servicio que se esta efectuando.
+
+* La aplicación deberá notificar cuando se reciba la confirmación de pago así también como la creación de una base de datos que permita registar los ingresos por cada trámite efectuado por parte de los usuarios.
+
+Se anexa link del formato "Toma de Requerimientos"
+
+https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/28e560252d694a533f279da035eeabe854605ec2/Formato%20de%20Requerimientos%20(Abogabot).doc

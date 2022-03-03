@@ -48,4 +48,7 @@ Se considera como Buyer Persona a el usuario "Alfonso Marketing"; Director de Ve
 
 [![Buyer-Persona-Alfonso-Marketing.png](https://i.postimg.cc/tT9zHcn2/Buyer-Persona-Alfonso-Marketing.png)](https://postimg.cc/3ybGXnBv)
 
+Se agrega Documento de Buyer Persona:
+
+https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/b6ddbeed6fff9df3e83a7c9863c7c3f233530a2b/Buyer%20Persona%20Alfonso%20Marketing.pdf
 

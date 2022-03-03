@@ -40,3 +40,12 @@ Los puntos a considerar:
 Se anexa link del formato "Toma de Requerimientos"
 
 https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/28e560252d694a533f279da035eeabe854605ec2/Formato%20de%20Requerimientos%20(Abogabot).doc
+
+
+BUYER PERSONA
+
+Se considera como Buyer Persona a el usuario "Alfonso Marketing"; Director de Ventas de una empresa de alto impacto en el ámbito de bienes y raíces así como en el sector comercial. Alfonso Marketing es un profesionista de 48 años de una clase social Alta; su principal actividad es formalizar convenios y contratos con personas y empresas a mediano y largo plazo. Su éxito profesional se basa en la generación de ingresos por lo que constantemente comparte sus logros  y se capacita a través de las redes sociales y nuevas tecnologías.
+
+[![Buyer-Persona-Alfonso-Marketing.png](https://i.postimg.cc/tT9zHcn2/Buyer-Persona-Alfonso-Marketing.png)](https://postimg.cc/3ybGXnBv)
+
+

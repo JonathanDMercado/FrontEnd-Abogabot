@@ -58,3 +58,7 @@ PÚBLICO OBJETIVO
 Nuestro público objetivo serán todos aquellos profesionistas entre 35 y 55 años pertenecientes a clase social "media - alta" que trabajen en el sector comercial como parte de un equipo de trabajo o realizando una actividad Freelance. Personas que desean optimizar sus tiempos para realizar trámites a través de internet y poder realizar sus demás actividades de forma efectiva.
 
 [![Publico-Objetivo-Abogabot.jpg](https://i.postimg.cc/44jqDzQq/Publico-Objetivo-Abogabot.jpg)](https://postimg.cc/hhb2xQw1)
+
+Se anexa Documento Público Objetivo:
+
+https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/cb18369c6c2cf73b467dbe49480aaf66935fd128/Publico%20Objetivo%20Abogabot.jpg

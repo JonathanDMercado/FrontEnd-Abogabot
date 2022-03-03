@@ -104,3 +104,6 @@ https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/7bf631fb6f724169121bc
 
 Portal Usuario
 https://github.com/JonathanDMercado/FrontEnd-Abogabot/blob/7bf631fb6f724169121bca9e4301dd734fb2a082/Abogabot%20Portal%20Usuario.png
+
+
+ELABORADO POR JONATHAN DAVID MERCADO JIMÉNEZ // EXPLORER DE LAUNCHX
